@@ -126,7 +126,7 @@ Access Granted   Access Denied
 When the system starts, the user is prompted to enter a valid password using the 4x4 keypad.
 
 <p align="center">
-  <img src="images/password_entry.png" width="700">
+  <img src="Images/OTP Entry_.pngg" width="700">
 </p>
 
 ---
