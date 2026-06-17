@@ -122,8 +122,6 @@ Access Granted   Access Denied
 
 ```markdown
 ```markdown
-# Project Demonstration
-
 ## Password Entry
 
 When the system starts, the user is prompted to enter a valid password using the 4x4 keypad.
@@ -136,7 +134,7 @@ When the system starts, the user is prompted to enter a valid password using the
 
 ## Wrong Password Attempt
 
-If an incorrect password is entered, the system denies authentication, turns ON the Red LED, and prompts the user to enter the password again.
+If an incorrect password is entered, the system turns ON the Red LED and prompts the user to enter the password again.
 
 <p align="center">
   <img src="images/wrong_password.png" width="700">
@@ -156,7 +154,7 @@ When the entered password matches the stored credentials, the system proceeds to
 
 ## OTP Generation
 
-After successful password verification, the user presses the push button to generate an OTP for the second level of authentication.
+After successful password verification, the user presses the push button to generate an OTP.
 
 <p align="center">
   <img src="images/otp_generation.png" width="700">
@@ -176,7 +174,7 @@ The user enters the generated OTP using the keypad for verification.
 
 ## Wrong OTP Attempt
 
-Whenever an incorrect OTP is entered, the system displays an error message and the Red LED glows to indicate authentication failure.
+Whenever an incorrect OTP is entered, the Red LED glows indicating authentication failure.
 
 <p align="center">
   <img src="images/wrong_otp.png" width="700">
@@ -186,7 +184,7 @@ Whenever an incorrect OTP is entered, the system displays an error message and t
 
 ## OTP Retry Attempt
 
-The system allows a maximum of three OTP verification attempts before resetting the authentication process.
+The system allows a maximum of three OTP verification attempts.
 
 <p align="center">
   <img src="images/otp_retry.png" width="700">
@@ -196,7 +194,7 @@ The system allows a maximum of three OTP verification attempts before resetting 
 
 ## Access Granted
 
-When both password and OTP verification are successful, the system grants access to the authorized user.
+When both password and OTP verification are successful, access is granted to the authorized user.
 
 <p align="center">
   <img src="images/access_granted.png" width="700">
@@ -206,12 +204,11 @@ When both password and OTP verification are successful, the system grants access
 
 ## Access Denied
 
-If all three OTP attempts fail, access is denied and the user must restart the authentication process by entering the password again.
+If all three OTP attempts fail, access is denied and the user must restart the authentication process.
 
 <p align="center">
   <img src="images/access_denied.png" width="700">
 </p>
-```
 
 
 ## Pin Interfaces
