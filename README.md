@@ -121,6 +121,7 @@ Access Granted   Access Denied
 ---
 
 ```markdown
+```markdown
 # Project Demonstration
 
 ## Password Entry
@@ -211,6 +212,7 @@ If all three OTP attempts fail, access is denied and the user must restart the a
   <img src="images/access_denied.png" width="700">
 </p>
 ```
+
 
 ## Pin Interfaces
 
