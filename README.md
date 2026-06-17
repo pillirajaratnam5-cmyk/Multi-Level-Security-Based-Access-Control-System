@@ -176,7 +176,7 @@ The user enters the generated OTP using the keypad for verification.
 Whenever an incorrect OTP is entered, the Red LED glows indicating authentication failure.
 
 <p align="center">
-  <img src="images/wrong_otp.png" width="700">
+  <img src="Images/Wrong OTP.png" width="700">
 </p>
 
 ---
