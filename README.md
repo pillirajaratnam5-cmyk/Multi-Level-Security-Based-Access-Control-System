@@ -118,9 +118,7 @@ Access Granted   Access Denied
   * Authentication process resets.
   * User must re-enter the password.
 
----
 
-```markdown
 # Project Demonstration
 
 ## Password Entry
@@ -253,3 +251,6 @@ If all three OTP attempts fail, access is denied and the user must restart the a
 **Raja Ratnam Pilli**
 
 Embedded Systems Engineer | Embedded C | ARM7 | IoT Enthusiast
+---
+
+```markdown
