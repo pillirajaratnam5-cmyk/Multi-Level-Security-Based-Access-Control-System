@@ -136,7 +136,7 @@ When the system starts, the user is prompted to enter a valid password using the
 If an incorrect password is entered, the Red LED glows and the system prompts the user to enter the password again.
 
 <p align="center">
-  <img src="images/Images/Wrong Password.png" width="700">
+  <img src="Images/Wrong Password.png" width="700">
 </p>
 
 ---
