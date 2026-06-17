@@ -166,7 +166,7 @@ After successful password verification, the user presses the push button to gene
 The user enters the generated OTP using the keypad for verification.
 
 <p align="center">
-  <img src="images/otp_entry.png" width="700">
+  <img src="Images/OTP Entry_.png" width="700">
 </p>
 
 ---
