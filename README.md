@@ -156,7 +156,7 @@ When the entered password matches the stored credentials, the system proceeds to
 After successful password verification, the user presses the push button to generate an OTP.
 
 <p align="center">
-  <img src="Images/OTP Generation..pngg" width="700">
+  <img src="Images/OTP Generation..png" width="700">
 </p>
 
 ---
