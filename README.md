@@ -201,7 +201,7 @@ When both password and OTP verification are successful, access is granted to the
 
 ---
 
-## Access Denied
+## OTP Expired
 
 If all three OTP attempts fail, access is denied and the user must restart the authentication process by entering the password again.
 
