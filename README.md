@@ -186,7 +186,7 @@ Whenever an incorrect OTP is entered, the Red LED glows indicating authenticatio
 The system allows a maximum of three OTP verification attempts before restarting the authentication process.
 
 <p align="center">
-  <img src="images/otp_retry.png" width="700">
+  <img src="Images/Otp_Reentry_.png" width="700">
 </p>
 
 ---
