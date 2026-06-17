@@ -196,7 +196,7 @@ The system allows a maximum of three OTP verification attempts before restarting
 When both password and OTP verification are successful, access is granted to the authorized user.
 
 <p align="center">
-  <img src="Images/Access Granted_.pngg" width="700">
+  <img src="Images/Access Granted_.png" width="700">
 </p>
 
 ---
