@@ -121,7 +121,8 @@ Access Granted   Access Denied
 ---
 
 ```markdown
-```markdown
+# Project Demonstration
+
 ## Password Entry
 
 When the system starts, the user is prompted to enter a valid password using the 4x4 keypad.
@@ -134,7 +135,7 @@ When the system starts, the user is prompted to enter a valid password using the
 
 ## Wrong Password Attempt
 
-If an incorrect password is entered, the system turns ON the Red LED and prompts the user to enter the password again.
+If an incorrect password is entered, the Red LED glows and the system prompts the user to enter the password again.
 
 <p align="center">
   <img src="images/wrong_password.png" width="700">
@@ -184,7 +185,7 @@ Whenever an incorrect OTP is entered, the Red LED glows indicating authenticatio
 
 ## OTP Retry Attempt
 
-The system allows a maximum of three OTP verification attempts.
+The system allows a maximum of three OTP verification attempts before restarting the authentication process.
 
 <p align="center">
   <img src="images/otp_retry.png" width="700">
@@ -204,12 +205,11 @@ When both password and OTP verification are successful, access is granted to the
 
 ## Access Denied
 
-If all three OTP attempts fail, access is denied and the user must restart the authentication process.
+If all three OTP attempts fail, access is denied and the user must restart the authentication process by entering the password again.
 
 <p align="center">
   <img src="images/access_denied.png" width="700">
 </p>
-
 
 ## Pin Interfaces
 
