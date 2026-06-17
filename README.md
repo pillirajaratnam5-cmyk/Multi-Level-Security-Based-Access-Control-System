@@ -206,7 +206,7 @@ When both password and OTP verification are successful, access is granted to the
 If all three OTP attempts fail, access is denied and the user must restart the authentication process by entering the password again.
 
 <p align="center">
-  <img src="images/access_denied.png" width="700">
+  <img src="Images/OTP_Expired_.png" width="700">
 </p>
 
 ## Pin Interfaces
