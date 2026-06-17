@@ -146,7 +146,7 @@ If an incorrect password is entered, the Red LED glows and the system prompts th
 When the entered password matches the stored credentials, the system proceeds to the OTP verification stage.
 
 <p align="center">
-  <img src="images/password_verification.png" width="700">
+  <img src="Images/Password Verification.png" width="700">
 </p>
 
 ---
